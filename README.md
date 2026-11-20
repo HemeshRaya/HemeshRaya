@@ -4,6 +4,8 @@
 
 Application Developer at Oracle. Based in Bangalore, relocating to Chennai. Open to remote roles.
 
+**Portfolio with live demos: [hemeshraya.github.io](https://hemeshraya.github.io)**
+
 I build and ship software that people use: 5+ years of enterprise web platforms (Java, Spring Boot, Angular, Python), and now AI-assisted workflows and LLM products. I care about making AI features safe, tested and measurable.
 
 ## What I'm working on
@@ -13,7 +15,7 @@ I build and ship software that people use: 5+ years of enterprise web platforms 
 
 ## Projects
 
-Code for these is private. Each repo below is a public showcase with the architecture, design decisions and honest status.
+Code for these is private. Each project has a public showcase here and a full case study with a demo on my [portfolio](https://hemeshraya.github.io).
 
 | Project | What it is |
 |---|---|
@@ -28,4 +30,4 @@ Python, FastAPI, TypeScript, Node.js, React, Angular, Java, Spring Boot, Postgre
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/hemesh-raya-a6746b1a2/)
+[Portfolio](https://hemeshraya.github.io) | [LinkedIn](https://www.linkedin.com/in/hemesh-raya-a6746b1a2/)
