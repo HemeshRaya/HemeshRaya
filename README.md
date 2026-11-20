@@ -1,6 +1,7 @@
 # Hi, I'm Hemesh Raya
 
 **AI Engineer | LLM applications, WhatsApp AI, RAG and evals**
+
 Application Developer at Oracle. Based in Bangalore, relocating to Chennai. Open to remote roles.
 
 I build and ship software that people use: 5+ years of enterprise web platforms (Java, Spring Boot, Angular, Python), and now AI-assisted workflows and LLM products. I care about making AI features safe, tested and measurable.
