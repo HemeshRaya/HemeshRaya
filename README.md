@@ -30,4 +30,4 @@ Python, FastAPI, TypeScript, Node.js, React, Angular, Java, Spring Boot, Postgre
 
 ## Connect
 
-[Portfolio](https://hemeshraya.github.io) | [LinkedIn](https://www.linkedin.com/in/hemesh-raya-a6746b1a2/)
+[Portfolio](https://hemeshraya.github.io) | [LinkedIn](https://www.linkedin.com/in/hemesh-raya-a6746b1a2/) | Phone: +91-9381315115
